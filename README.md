@@ -2,7 +2,7 @@
 한국어 Table-to-Text Generation 모델
 
 # Reference
-<br>[FeTaQA Official Github](https://github.com/Yale-LILY/FeTaQA)
+[FeTaQA Official Github](https://github.com/Yale-LILY/FeTaQA)
 <br>[FeTaQA: Free-form Table Question Answering](https://arxiv.org/abs/2104.00369)
 <br>[KorWikiTableQuestions](https://github.com/LG-NLP/KorWikiTableQuestions)
 <br>[Korean-Specific Dataset for Table Question Answering](https://arxiv.org/abs/2201.06223)
