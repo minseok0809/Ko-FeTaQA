@@ -1,0 +1,1 @@
+ModelArguments(model_name_or_path='model/paustpko-t5-small', config_name=None, tokenizer_name='model/paustpko-t5-small', cache_dir=None, use_fast_tokenizer=True, model_revision='main', use_auth_token=False, hyper_param_search=False, batch_size=1)
