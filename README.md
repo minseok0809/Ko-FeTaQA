@@ -1,5 +1,5 @@
 # Ko-FeTaQA
-한국어 Table-to-Text Generation 모델
+Korean Table Question Answering Model
 
 <br><br>
 
